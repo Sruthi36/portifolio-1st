@@ -1,0 +1,171 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+#navItem1 {
+    color: #11161a;
+    font-family: "Roboto";
+}
+
+#navItem2 {
+    color: #11161a;
+    font-family: "Roboto";
+}
+
+#navItem3 {
+    color: #11161a;
+    font-family: "Roboto";
+}
+
+#navItem4 {
+    color: #11161a;
+    font-family: "Roboto";
+}
+.portifolio-image{
+    width: 70px;
+    height: 70px;
+    border-radius:100px;
+}
+.details-section{
+    background-color:darkgrey;
+    text-align:center;
+}
+.display-section{
+    background-color:beige;
+}
+.image{
+    height:170px;
+    border-style:solid;
+    border-width:7px;
+    border-radius:50%;
+    border-color:darkgray;
+    outline:5px solid beige;
+}
+.name{
+    color:white;
+    font-size:30px;
+    font-family:"Math bold";
+}
+.profession{
+    color:whitesmoke;
+    font-size:18px;
+    font-family:"Roboto";
+}
+.sections{
+    background-color:rgb(118, 126, 135);
+    border-radius:20px;
+    text-align:center;
+}
+.section-keys{
+    color:rgb(252, 252, 232);
+    font-size:25px;
+    font-family:"Roboto";
+}
+.description{
+    color:rgb(70, 66, 66);
+    font-size:15px;
+}
+.description1{
+    color:whitesmoke;
+    font-size:14px;
+}
+.description2{
+    color:rgb(89, 84, 84);
+    font-size:23px;
+}
+.description3{
+    color:rgb(49, 47, 47);
+    font-size:19px;
+}
+.hori-line{
+    background-color:white;
+    border-width:2px;
+    
+}
+.intro-name{
+    color:rgb(87, 83, 83);
+    font-size:35px;
+}
+.intro{
+    color:rgb(192, 118, 118);
+}
+.nxt-wave{
+    color:rgb(113, 185, 230);
+    font-weight:bold;
+}
+.container1{
+    background-color:rgb(210, 210, 192);
+    width:98vw;
+}
+.skills-card{
+    border-radius:8px;
+    background-color:rgb(193, 190, 190);
+}
+.education-card-heading{
+    color:rgb(53, 53, 53);
+    font-size:19px;
+}
+.gif-image{
+    height:250px;
+}
+.education-heading{
+    font-size:30px;
+    color:rgb(7, 32, 100);
+    text-align:center;
+}
+.certificates{
+    background-color:#eaeaea;
+    border-style:solid;
+    border-radius:20px;
+    border-color:ghostwhite;
+    border-width:1px;
+}
+.projects-card{
+    background-color:rgb(211, 211, 217);
+    border-style:solid;
+    border-radius:20px;
+    border-width:1px;
+    border-color:white;
+    padding:7px;
+}
+.projects-card-heading{
+    font-size:23px;
+    color:rgb(73, 92, 40);
+}
+.projects-card-paragraph{
+    color:rgb(88, 100, 111);
+    font-size:14px;
+}
+.contact-details{
+    background-color:darkgray;
+}
+.about-me{
+    color:rgb(36, 0, 0);
+    font-size:19px;
+    font-family:"Roboto";
+}
+.image-2{
+    height:550px;
+}
+.my-resume{
+    background-color:lightgray;
+    border-radius:100px;
+    border-style:double;
+    border-width:2px;
+    border-color:whitesmoke;
+    text-align:center;
+    font-size:20px;
+    color:rgb(57, 55, 53);
+}
+.arrow{
+    text-align:center;
+}
+.description4{
+    color:rgb(75, 72, 72);
+    font-size:19px;
+}
+.contact-me{
+    color:rgb(7, 32, 100);
+    font-size:35px;
+}
+.icons{
+    color:black;
+}
